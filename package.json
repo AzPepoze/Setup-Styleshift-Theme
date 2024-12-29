@@ -1,0 +1,19 @@
+{
+	"name": "setup-styleshift-theme",
+	"version": "0.1.0",
+	"description": "",
+	"keywords": [
+		"Styleshift",
+		"Theme",
+		"Setup"
+	],
+	"bin": {
+		"setup-styleshift-theme": "bin/cli.js"
+	},
+	"type": "commonjs",
+	"author": "AzPepoze",
+	"license": "GPL-3.0-only",
+	"dependencies": {
+		"ora": "^8.1.1"
+	}
+}
